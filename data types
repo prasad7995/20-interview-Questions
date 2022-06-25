@@ -1,0 +1,134 @@
+1.What is the return type of function id?
+a) int
+b) float
+c) bool
+d) dict
+
+2.What error occurs when you execute the following Python code snippet?
+
+apple = mango
+
+a) SyntaxError
+b) NameError
+c) ValueError
+d) TypeError
+
+3.What will be the output of the following Python code snippet?
+
+def example(a):
+    a = a + '2'
+     a = a*2
+    return a
+>>>example("hello")
+
+a) indentation Error
+b) cannot perform mathematical operation on strings
+c) hello2
+d) hello2hello2
+
+4.What data type is the object below?
+
+L = [1, 23, 'hello', 1]
+
+a) list
+b) dictionary
+c) array
+d) tuple
+
+5.In order to store values in terms of key and value we use what core data type.
+a) list
+b) tuple
+c) class
+d) dictionary
+
+6.Which of the following results in a SyntaxError?
+
+a) ‘”Once upon a time…”, she said.’
+b) “He said, ‘Yes!'”
+c) ‘3\’
+d) ”’That’s okay”’
+
+7.Which of these in not a core data type?
+a) Lists
+b) Dictionary
+c) Tuples
+d) Class
+
+8.Which of the following will run without errors?
+a) round(45.8)
+b) round(6352.898,2,5)
+c) round()
+d) round(7463.123,2,1)
+
+9.What is the type of inf?
+a) Boolean
+b) Integer
+c) Float
+d) Complex
+
+10.Which of the following is incorrect?
+a) float(‘inf’)
+b) float(‘nan’)
+c) float(’56’+’78’)
+d) float(’12+34′)
+
+11.In Python, a variable may be assigned a value of one type, and then later assigned a value of a different type:
+a) False
+b) True
+
+12.Which of the following statement is False?
+a) Variable names can be arbitrarily long.
+b) They can contain both letters and numbers.
+c) Variable name can begin with underscore.
+d) Variable name can begin with number.
+
+13.What is the output of the following code: print 9//2
+a) 4
+b) 4.5
+c) 4.0
+d) Error
+
+14.What is the maximum length of an identifier in python?
+a) 32
+b) 31
+c) 63
+d) None of the above
+
+15. Which statement is correct?
+a) List is immutable && Tuple is mutable
+b) List is mutable && Tuple is immutable
+c) Both are Mutable.
+d) Both are Immutable
+
+16.Can tuple be used as dictionary key in python?
+a) True
+b) False
+c) Tuple is not used in python
+d) None of the above
+
+17.Can tuple be used as dictionary key in python?
+a) True
+b) False
+c) Tuple is not used in python
+d) None of the above
+
+18.Which one of the following is immutable data type?
+a) list
+b) set
+c) int
+d) dict
+
+19.In which data type, indexing is not valid?
+a) List
+b) String
+c) Dictionary
+d) None of the above
+
+20.What is output of: 35 == 35.0
+a) False
+b) True
+c) 33
+d) None of the above
+
+
+
